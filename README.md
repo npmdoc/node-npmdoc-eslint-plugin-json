@@ -1,6 +1,6 @@
 # npmdoc-eslint-plugin-json
 
-#### api documentation for  [eslint-plugin-json (v1.2.0)](https://github.com/azeemba/eslint-plugin-json#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-eslint-plugin-json.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-eslint-plugin-json) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-json.svg)](https://travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-json)
+#### basic api documentation for  [eslint-plugin-json (v1.2.0)](https://github.com/azeemba/eslint-plugin-json#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-eslint-plugin-json.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-eslint-plugin-json) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-json.svg)](https://travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-json)
 
 #### Lint JSON files
 
@@ -70,7 +70,8 @@
         "test": "mocha"
     },
     "url": "https://github.com/azeemba/eslint-plugin-json",
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "bin": {}
 }
 ```
 
